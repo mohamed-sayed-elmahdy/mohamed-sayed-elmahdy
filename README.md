@@ -21,10 +21,10 @@
 
 Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 3+ years of experience building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**.
 
-- 🔭 Delivered pixel-perfect, accessible UIs across **50+ client projects**
-- 🌱 Proficient in Redux Toolkit, TanStack Query, and RESTful API integration
-- 💼 Hands-on exposure to Node.js & MongoDB | Open to freelance & collaborations
-- ⚡ Optimized for performance and deployed on Vercel
+- Delivered pixel-perfect, accessible UIs across **50+ client projects**
+- Proficient in Redux Toolkit, TanStack Query, and RESTful API integration
+- Hands-on exposure to Node.js & MongoDB | Open to freelance & collaborations
+- Optimized for performance and deployed on Vercel
 
 ---
 
