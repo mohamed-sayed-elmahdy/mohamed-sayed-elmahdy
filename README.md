@@ -84,7 +84,7 @@ Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 3+ years o
       <h3><a href="https://github.com/mohamed-sayed-elmahdy/Frontend-Forge-Platform">Frontend Forge Platform</a></h3>
       <p>Full-featured blog platform + admin panel with authentication, markdown support, Cloudinary uploads, React Query and multi-language (next-intl).</p>
       <p>
-        <a href="https://frontend-forge.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="https://blog-app-and-admin-panel.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
         <a href="https://github.com/mohamed-sayed-elmahdy/Frontend-Forge-Platform"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </p>
       <p><code>Next.js</code> <code>MongoDB</code> <code>React Query</code> <code>Tailwind</code></p>
