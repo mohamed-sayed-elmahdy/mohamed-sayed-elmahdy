@@ -58,17 +58,10 @@ Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 3+ years o
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### AI & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-#### Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-#### AI-Assisted Development
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+#### Architecture
+![SOLID](https://img.shields.io/badge/SOLID-Principles-5C2D91?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-0D1117?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge)
 
 #### Cloud, DevOps & Testing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -83,10 +76,17 @@ Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 3+ years o
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-47B881?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 
-#### Architecture
-![SOLID](https://img.shields.io/badge/SOLID-Principles-5C2D91?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-0D1117?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge)
+#### AI & LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+#### AI-Assisted Development
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
