@@ -13,13 +13,18 @@
     <a href="https://wa.me/+201101987074"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   </p>
 
+  <p>
+    <strong>Open to opportunities — Full-time · Part-time · Freelance</strong><br/>
+    Looking for a Frontend Engineer who ships clean, high-performance UIs? Let's talk.
+  </p>
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 3+ years of experience building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**.
+Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 4+ years of experience building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**.
 
 - Delivered pixel-perfect, accessible UIs across **50+ client projects**
 - Proficient in Redux Toolkit, TanStack Query, and RESTful API integration
