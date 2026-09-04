@@ -110,7 +110,7 @@ Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 4+ years o
     </td>
     <td width="50%">
       <h3><a href="https://github.com/mohamed-sayed-elmahdy/Frontend-Forge-Platform">Frontend Forge Platform</a></h3>
-      <p>Full-featured blog platform + admin panel with authentication, markdown support, Cloudinary uploads, React Query and multi-language (next-intl).</p>
+      <p>Developer platform bringing learning, coding practice, interview preparation, developer tools, and AI-powered assistance into one workspace.</p>
       <p>
         <a href="https://blog-app-and-admin-panel.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
         <a href="https://github.com/mohamed-sayed-elmahdy/Frontend-Forge-Platform"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
