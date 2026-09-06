@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Sayed+Elmahdy;Frontend+Engineer;Building+Scalable+%26+High-Performance+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Sayed+Elmahdy;Software+Engineer;Building+Scalable+%26+High-Performance+Apps" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mohamed-sayed-elmahdy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,7 +15,7 @@
 
   <p>
     <strong>Open to opportunities — Full-time · Part-time · Freelance</strong><br/>
-    Looking for a Frontend Engineer who ships clean, high-performance UIs? Let's talk.
+    Looking for a Software Engineer who ships clean, high-performance web apps? Let's talk.
   </p>
 
 </div>
@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 4+ years of experience building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**.
+Hi there! I'm **Mohamed Sayed Elmahdy**, a **Software Engineer** with 4+ years of experience building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**, with hands-on AI integration.
 
 - Delivered pixel-perfect, accessible UIs across **50+ client projects**
 - Proficient in Redux Toolkit, TanStack Query, and RESTful API integration
@@ -103,14 +103,14 @@ Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 4+ years o
       <h3><a href="https://github.com/mohamed-sayed-elmahdy/Mohammed-Al-Ahyawi-Platform">Mohammed Al-Ahyawi Platform</a></h3>
       <p>Modern full platform built with Next.js 16, React 19, TypeScript & Tailwind CSS 4. Features smooth animations, responsive design and clean UI.</p>
       <p>
-        <a href="https://mohammed-al-ahyawi-platform.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+        <a href="https://mohammad-alehewi.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
         <a href="https://github.com/mohamed-sayed-elmahdy/Mohammed-Al-Ahyawi-Platform"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
       </p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Motion</code></p>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/mohamed-sayed-elmahdy/Frontend-Forge-Platform">Frontend Forge Platform</a></h3>
-      <p>Full-featured blog platform + admin panel with authentication, markdown support, Cloudinary uploads, React Query and multi-language (next-intl).</p>
+      <p>Developer platform bringing learning, coding practice, interview preparation, developer tools, and AI-powered assistance into one workspace.</p>
       <p>
         <a href="https://blog-app-and-admin-panel.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
         <a href="https://github.com/mohamed-sayed-elmahdy/Frontend-Forge-Platform"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
