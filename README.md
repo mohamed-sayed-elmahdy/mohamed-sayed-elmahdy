@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Sayed+Elmahdy;Frontend+Engineer;Building+Scalable+%26+High-Performance+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Sayed+Elmahdy;Software+Engineer;Building+Scalable+%26+High-Performance+Apps" alt="Typing SVG" />
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=mohamed-sayed-elmahdy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -15,7 +15,7 @@
 
   <p>
     <strong>Open to opportunities — Full-time · Part-time · Freelance</strong><br/>
-    Looking for a Frontend Engineer who ships clean, high-performance UIs? Let's talk.
+    Looking for a Software Engineer who ships clean, high-performance web apps? Let's talk.
   </p>
 
 </div>
@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Mohamed Sayed Elmahdy**, a **Frontend Engineer** with 4+ years of experience building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**.
+Hi there! I'm **Mohamed Sayed Elmahdy**, a **Software Engineer** with 4+ years of experience building scalable, high-performance web applications using **React.js**, **Next.js**, and **TypeScript**, with hands-on AI integration.
 
 - Delivered pixel-perfect, accessible UIs across **50+ client projects**
 - Proficient in Redux Toolkit, TanStack Query, and RESTful API integration
